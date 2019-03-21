@@ -16,3 +16,8 @@ Array
 
 Array's column mean values are:
 m =	68.0	600.0	40.0
+
+Equation for calculating Mahalanobis Distance
+
+        Mahalanobis-Distance/Mahalanobis Distance equation.jpg
+      
