@@ -18,4 +18,5 @@ Array's column mean values are:
 m =	68.0	600.0	40.0
 
 Equation for calculating Mahalanobis Distance
+
 ![alt text](https://github.com/duozhanggithub/Mahalanobis-Distance/blob/master/Mahalanobis%20Distance%20equation.jpg)
