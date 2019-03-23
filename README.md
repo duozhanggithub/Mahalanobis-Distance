@@ -1,5 +1,5 @@
 # Mahalanobis-Distance
-Mahalanobis Distance as anormarly score
+Mahalanobis Distance as a measure of anormarly score
 
 Example:
 From https://jamesmccaffrey.wordpress.com/2017/11/15/the-mahalanobis-distance-between-two-vectors/
